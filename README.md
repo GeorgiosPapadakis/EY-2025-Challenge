@@ -7,15 +7,15 @@ Develop a machine learning model to predict Urban Heat Island values for specifi
 
 My Contribution:
 
-Designed a custom Attention-based Convolutional Neural Network (CNN) to capture spatial patterns influencing UHI effects.
+- Designed a custom Attention-based Convolutional Neural Network (CNN) to capture spatial patterns influencing UHI effects.
 
-Built an efficient data pipeline to preprocess raw geospatial data and extract meaningful features.
+- Built an efficient data pipeline to preprocess raw geospatial data and extract meaningful features.
 
-Achieved an R² score of 95% on the final test set.
+- Achieved an R² score of 95% on the final test set.
 
-Ranked 4th out of 8 in Greece and 98th out of 377 globally.
+- Ranked 4th out of 8 in Greece and 98th out of 377 globally.
 
-Improved RMSE by 25% over the provided baseline model.
+- Improved RMSE by 25% over the provided baseline model.
 
 ## Model Architecture
 The model uses:
