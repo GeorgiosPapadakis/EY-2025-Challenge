@@ -20,11 +20,11 @@ My Contribution:
 ## Model Architecture
 The model uses:
 
-Convolutional layers to extract spatial features from satellite image tiles.
+1. Convolutional layers to extract spatial features from satellite image tiles.
 
-A self-attention mechanism to focus on the most influential regions within the image.
+2. A self-attention mechanism to focus on the most influential regions within the image.
 
-Fully connected layers to regress UHI values.
+3. Fully connected layers to regress UHI values.
 
 Frameworks used:
 
